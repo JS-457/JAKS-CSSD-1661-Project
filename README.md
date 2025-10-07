@@ -4,3 +4,5 @@ This project hopes to develop a strong and secure password manager which lets yo
 (Insert links for whatever.)
 
 PassVault safely secures your passwords!
+
+It has a login feature! 
