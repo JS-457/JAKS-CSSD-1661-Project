@@ -6,3 +6,5 @@ This project hopes to develop a strong and secure password manager which lets yo
 PassVault safely secures your passwords!
 
 It has a login feature! 
+
+It is hosted locally!
