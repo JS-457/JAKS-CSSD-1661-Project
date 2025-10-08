@@ -5,7 +5,7 @@ This section explains what users of **PassVault**, our password manager app, nee
 
 ## Content
 
-### 🧍 User Stories
+### User Stories
 - As a user, I want to create an account so I can safely store my passwords.
 - As a user, I want to add, edit, and delete saved passwords so I can keep my information up to date.
 - As a user, I want to organize my passwords into categories (e.g., work, personal, banking) so I can find them easily.
@@ -13,7 +13,7 @@ This section explains what users of **PassVault**, our password manager app, nee
 - As a user, I want all my passwords to be encrypted so no one else can see them.
 - As a user, I want to unlock my vault using secure login.
 
-### ✅ Acceptance Criteria
+### Acceptance Criteria
 - [ ] User can successfully sign up, log in, and log out.
 - [ ] Passwords are stored securely using encryption.
 - [ ] Passwords can be added, edited, deleted, and categorized.
