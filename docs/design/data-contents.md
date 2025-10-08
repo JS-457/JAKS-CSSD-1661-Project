@@ -12,5 +12,7 @@ The most important portion is to know what data we're storing/using and what con
 - Landing Page
 - About Us
 - Contact Us
-- Login/Sign-In/Reset password page
+- Login Page
+- Sign-In Page
+- Reset password page
 - Modify
